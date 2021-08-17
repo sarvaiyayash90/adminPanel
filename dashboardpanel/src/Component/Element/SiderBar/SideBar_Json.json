@@ -1,0 +1,224 @@
+[
+  {
+    "main_name": "",
+    "data": [
+      {
+        "name": "Dashboard",
+        "route": "/dashboard",
+        "main_icon": "fal fa-home-lg-alt",
+        "right_icon": "fal fa-chevron-right",
+        "_children": [
+          {
+            "name": "eCommerce",
+            "to": "/eCommerce",
+            "main_icon": "fal fa-circle"
+          },
+          {
+            "name": "Analytics",
+            "to": "/Analytics",
+            "main_icon": "fal fa-circle"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "main_name": "APPS & PAGES",
+    "data": [
+      {
+        "name": "Email",
+        "to": "/Email",
+        "main_icon": "fal fa-envelope"
+      },
+      {
+        "name": "Chat",
+        "to": "/Chat",
+        "main_icon": "fal fa-comment-alt"
+      },
+      {
+        "name": "Todo",
+        "to": "/Todo",
+        "main_icon": "fal fa-clipboard-check"
+      },
+      {
+        "name": "Calender",
+        "to": "/Calender",
+        "main_icon": "fal fa-calendar-alt"
+      },
+      {
+        "name": "Invoice",
+        "to": "/Invoice",
+        "main_icon": "fal fa-receipt",
+        "right_icon": "fal fa-chevron-right"
+      },
+      {
+        "name": "eCommerce",
+        "to": "/eCommerce",
+        "main_icon": "fal fa-calendar-alt",
+        "right_icon": "fal fa-chevron-right"
+      },
+      {
+        "name": "User",
+        "to": "/User",
+        "main_icon": "fal fa-user",
+        "right_icon": "fal fa-chevron-right"
+      },
+      {
+        "name": "Pages",
+        "to": "/Pages",
+        "main_icon": "fal fa-user",
+        "right_icon": "fal fa-chevron-right",
+        "_children": [
+          {
+            "name": "Authentication",
+            "to": "/Authentication",
+            "main_icon": "fal fa-circle",
+            "right_icon": "fal fa-chevron-right",
+            "sub_children": [
+              {
+                "name": "Login",
+                "to": "/Login"
+              },
+              {
+                "name": "Register",
+                "to": "/Register"
+              }
+            ]
+          },
+          {
+            "name": "Profile",
+            "to": "/Profile",
+            "main_icon": "fal fa-circle"
+          },
+          {
+            "name": "FAQ",
+            "to": "/FAQ",
+            "main_icon": "fal fa-circle"
+          },
+          {
+            "name": "Knowledge Base",
+            "to": "/Knowledge_Base",
+            "main_icon": "fal fa-circle"
+          },
+          {
+            "name": "Pricing",
+            "to": "/Pricing",
+            "main_icon": "fal fa-circle"
+          },
+          {
+            "name": "Blog",
+            "to": "/Blog",
+            "main_icon": "fal fa-circle",
+            "right_icon": "fal fa-chevron-right",
+            "sub_children": [
+              {
+                "name": "List",
+                "to": "/List"
+              },
+              {
+                "name": "Details",
+                "to": "/Details"
+              },
+              {
+                "name": "Edit",
+                "to": "/Edit"
+              }
+            ]
+          },
+          {
+            "name": "Mail Templates",
+            "to": "/Mail_templates",
+            "main_icon": "fal fa-circle"
+          },
+          {
+            "name": "Miscellaneous",
+            "to": "/Miscellaneous",
+            "main_icon": "fal fa-circle"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "main_name": "USER INTERFACE",
+    "data": [
+      {
+        "name": "Typography",
+        "to": "/Typography",
+        "main_icon": "fal fa-text"
+      },
+      {
+        "name": "Colors",
+        "to": "/Colors",
+        "main_icon": "fal fa-tint"
+      },
+      {
+        "name": "Feather",
+        "to": "/Feather",
+        "main_icon": "fal fa-feather"
+      },
+      {
+        "name": "Cards",
+        "to": "/Cards",
+        "main_icon": "fal fa-credit-card-blank",
+        "right_icon": "fal fa-chevron-right"
+      },
+      {
+        "name": "Components",
+        "to": "/Components",
+        "main_icon": "fal fa-window-maximize",
+        "right_icon": "fal fa-chevron-right"
+      },
+      {
+        "name": "Page Layouts",
+        "to": "/Page_Layouts",
+        "main_icon": "fal fa-pager",
+        "right_icon": "fal fa-chevron-right"
+      }
+    ]
+  },
+  {
+    "main_name": "FORMS & TABLES",
+    "data": [
+      {
+        "name": "Forms elements",
+        "to": "Forms_elements",
+        "main_icon": "fab fa-wpforms",
+        "right_icon": "fal fa-chevron-right"
+      },
+      {
+        "name": "Form Layout",
+        "to": "Form_Layout",
+        "main_icon": "fab fa-wpforms",
+        "right_icon": "fal fa-chevron-right"
+      },
+      {
+        "name": "Form Wizard",
+        "to": "Form_Wizard",
+        "main_icon": "fal fa-cube",
+        "right_icon": "fal fa-chevron-right"
+      },
+      {
+        "name": "Form Validation",
+        "to": "Form_Validation",
+        "main_icon": "fal fa-badge-check"
+      },
+      {
+        "name": "Form Repeater",
+        "to": "Form_Repeater",
+        "main_icon": "fab fa-wpforms"
+      },
+      {
+        "name": "Bs Table",
+        "to": "Bs_Table",
+        "main_icon": "fal fa-table"
+      },
+      {
+        "name": "Good Table",
+        "to": "Good_Table",
+        "main_icon": "fal fa-th-large"
+      }
+    ]
+  }
+]
+
